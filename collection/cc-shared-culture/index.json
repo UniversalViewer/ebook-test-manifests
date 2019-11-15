@@ -1,0 +1,27 @@
+{
+  "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": []
+        }
+      ],
+      "label": {
+        "@none": [
+          "_cc-shared-culture"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "cc-shared-culture"
+    ]
+  }
+}

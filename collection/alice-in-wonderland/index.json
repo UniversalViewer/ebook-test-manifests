@@ -1,0 +1,27 @@
+{
+  "id": "https://ebook-test-manifests.netlify.com/collection/alice-in-wonderland/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://ebook-test-manifests.netlify.com/collection/alice-in-wonderland/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://ebook-test-manifests.netlify.com/collection/alice-in-wonderland/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": []
+        }
+      ],
+      "label": {
+        "@none": [
+          "_alice-in-wonderland"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "alice-in-wonderland"
+    ]
+  }
+}

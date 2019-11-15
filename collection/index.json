@@ -1,0 +1,29 @@
+{
+  "id": "https://ebook-test-manifests.netlify.com/collection/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "https://ebook-test-manifests.netlify.com/collection/alice-in-wonderland/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "alice-in-wonderland"
+        ]
+      }
+    },
+    {
+      "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "cc-shared-culture"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "collection"
+    ]
+  }
+}
