@@ -1,0 +1,55 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/internal-links/internal-links.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Moby Dick"
+    ]
+  },
+  "rights": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Title"
+        ]
+      },
+      "value": {
+        "ja": [
+          "IDに漢字などを使用したサンプル"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/internal-links/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Internal-Links"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/internal-links/canvas/1/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/internal-links/canvas/annotations/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/internal-links/canvas/1",
+              "body": {
+                "id": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/internal-links/internallinks.epub",
+                "format": "application/epub+zip",
+                "type": "Text"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

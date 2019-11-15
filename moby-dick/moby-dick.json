@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/moby-dick/moby-dick.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Moby Dick"
+    ]
+  },
+  "rights": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Title"
+        ]
+      },
+      "value": {
+        "en": [
+          "Moby Dick"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Author"
+        ]
+      },
+      "value": {
+        "en": [
+          "Herman Melville"
+        ]
+      }
+    },
+    {
+      "label":{"en":["View catalogue record"]},
+      "value":{"en":["<a href='http://explore.bl.uk/primo_library/libweb/action/dlDisplay.do?docId=BLL01017852824'>View the catalogue record</a>"]}
+    }
+  ],
+  "items": [
+    {
+      "id": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/moby-dick/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Moby Dick"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/moby-dick/canvas/1/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/moby-dick/canvas/annotations/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/moby-dick/canvas/1",
+              "body": {
+                "id": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/moby-dick/moby-dick.epub",
+                "format": "application/epub+zip",
+                "type": "Text"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
