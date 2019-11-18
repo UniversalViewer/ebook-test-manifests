@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/cc-shared-culture.json",
+  "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/index.json",
   "type": "Manifest",
   "label": {
     "en": [
