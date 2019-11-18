@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/moby-dick/moby-dick.json",
+  "id": "https://ebook-test-manifests.netlify.com/collection/moby-dick/moby-dick.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -40,7 +40,7 @@
   ],
   "items": [
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/moby-dick/canvas/1",
+      "id": "https://ebook-test-manifests.netlify.com/collection/moby-dick/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -49,16 +49,16 @@
       },
       "items": [
         {
-          "id": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/moby-dick/canvas/1/annotations",
+          "id": "https://ebook-test-manifests.netlify.com/collection/moby-dick/canvas/1/annotations",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/moby-dick/canvas/annotations/1",
+              "id": "https://ebook-test-manifests.netlify.com/collection/moby-dick/canvas/annotations/1",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/moby-dick/canvas/1",
+              "target": "https://ebook-test-manifests.netlify.com/collection/moby-dick/canvas/1",
               "body": {
-                "id": "https://ebook-test-manifests.netlify.com/collection/ebook-test-manifests/moby-dick/moby-dick.epub",
+                "id": "https://ebook-test-manifests.netlify.com/collection/moby-dick/moby-dick.epub",
                 "format": "application/epub+zip",
                 "type": "Text"
               }
