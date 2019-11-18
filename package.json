@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/UniversalViewer/ebook-test-manifests/issues"
   },
-  "homepage": "https://github.com/UniversalViewer/ebook-test-manifests#readme"
+  "homepage": "https://github.com/UniversalViewer/ebook-test-manifests#readme",
+  "devDependencies": {
+    "biiif": "^0.3.24"
+  }
 }
