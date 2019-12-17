@@ -1,7 +1,41 @@
 {
   "id": "https://ebook-test-manifests.netlify.com/collection/alice-in-wonderland/index.json",
   "type": "Manifest",
-  "items": [],
+  "items": [
+    {
+      "id": "https://ebook-test-manifests.netlify.com/collection/alice-in-wonderland/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://ebook-test-manifests.netlify.com/collection/alice-in-wonderland/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ebook-test-manifests.netlify.com/collection/alice-in-wonderland/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://s3.amazonaws.com/epubjs/books/alice/OPS/package.opf",
+                "type": "Text",
+                "format": "application/oebps-package+xml",
+                "label": {
+                  "@none": [
+                    "_alice-in-wonderland"
+                  ]
+                }
+              },
+              "target": "https://ebook-test-manifests.netlify.com/collection/alice-in-wonderland/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_alice-in-wonderland"
+        ]
+      }
+    }
+  ],
   "label": {
     "@none": [
       "alice-in-wonderland"
