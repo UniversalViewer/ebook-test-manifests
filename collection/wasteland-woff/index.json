@@ -1,0 +1,44 @@
+{
+  "id": "https://ebook-test-manifests.netlify.com/collection/wasteland-woff/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://ebook-test-manifests.netlify.com/collection/wasteland-woff/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://ebook-test-manifests.netlify.com/collection/wasteland-woff/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ebook-test-manifests.netlify.com/collection/wasteland-woff/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://ebook-test-manifests.netlify.com/collection/wasteland-woff/wasteland-woff.epub",
+                "type": "Text",
+                "format": "application/epub+zip",
+                "label": {
+                  "@none": [
+                    "wasteland-woff"
+                  ]
+                }
+              },
+              "target": "https://ebook-test-manifests.netlify.com/collection/wasteland-woff/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "wasteland-woff"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "wasteland-woff"
+    ]
+  }
+}

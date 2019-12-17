@@ -1,67 +1,44 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/index.json",
   "type": "Manifest",
-  "label": {
-    "en": [
-      "Creative Commons Shared Culture"
-    ]
-  },
-  "rights": "https://creativecommons.org/licenses/by-nc-sa/3.0/us/",
-  "metadata": [
+  "items": [
     {
+      "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/cc-shared-culture.epub",
+                "type": "Text",
+                "format": "application/epub+zip",
+                "label": {
+                  "@none": [
+                    "cc-shared-culture"
+                  ]
+                }
+              },
+              "target": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
       "label": {
-        "en": [
-          "Title"
-        ]
-      },
-      "value": {
-        "en": [
-          "A Shared Culture"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Author"
-        ]
-      },
-      "value": {
-        "en": [
-          "Jesse Dylan"
+        "@none": [
+          "cc-shared-culture"
         ]
       }
     }
   ],
-  "items": [
-    {
-      "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/canvas/1",
-      "type": "Canvas",
-      "label": {
-        "en": [
-          "A Shared Culture"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/canvas/1/annotations",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/canvas/annotations/1",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/canvas/1",
-              "body": {
-                "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/cc-shared-culture.epub",
-                "format": "application/epub+zip",
-                "type": "Text"
-              }
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "label": {
+    "@none": [
+      "cc-shared-culture"
+    ]
+  }
 }

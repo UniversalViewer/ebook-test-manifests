@@ -1,0 +1,23 @@
+{
+  "name": "ebook-test-manifests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "biiif collection -u https://ebook-test-manifests.netlify.com/collection/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UniversalViewer/ebook-test-manifests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UniversalViewer/ebook-test-manifests/issues"
+  },
+  "homepage": "https://github.com/UniversalViewer/ebook-test-manifests#readme",
+  "devDependencies": {
+    "biiif-cli": "^0.1.21"
+  }
+}

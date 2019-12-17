@@ -1,0 +1,44 @@
+{
+  "id": "https://ebook-test-manifests.netlify.com/collection/kusamakura-preview-embedded/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://ebook-test-manifests.netlify.com/collection/kusamakura-preview-embedded/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://ebook-test-manifests.netlify.com/collection/kusamakura-preview-embedded/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://ebook-test-manifests.netlify.com/collection/kusamakura-preview-embedded/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://ebook-test-manifests.netlify.com/collection/kusamakura-preview-embedded/kusamakura-preview-embedded.epub",
+                "type": "Text",
+                "format": "application/epub+zip",
+                "label": {
+                  "@none": [
+                    "kusamakura-preview-embedded"
+                  ]
+                }
+              },
+              "target": "https://ebook-test-manifests.netlify.com/collection/kusamakura-preview-embedded/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "kusamakura-preview-embedded"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "kusamakura-preview-embedded"
+    ]
+  }
+}
