@@ -1,9 +1,9 @@
 {
-  "id": "https://ebook-test-manifests.netlify.com/collection/index.json",
+  "id": "https://ebook-test-manifests.netlify.app/collection/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/accessible-epub/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/accessible-epub/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,7 +12,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/alice-in-wonderland/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/alice-in-wonderland/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/cc-shared-culture/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/cc-shared-culture/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -30,7 +30,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/childrens-literature/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/childrens-literature/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -39,7 +39,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/childrens-media-query/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/childrens-media-query/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -48,7 +48,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/cole-voyage-of-life/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/cole-voyage-of-life/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -57,7 +57,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/cole-voyage-of-life-tol/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/cole-voyage-of-life-tol/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -66,7 +66,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/epub30-spec/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/epub30-spec/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -75,7 +75,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/figure-gallery/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/figure-gallery/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -84,7 +84,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/georgi-cfi/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/georgi-cfi/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -93,7 +93,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/georgia-pls-ssml/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/georgia-pls-ssml/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -102,7 +102,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/haruko-ahl/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/haruko-ahl/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -111,7 +111,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/haruko-html-jpg/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/haruko-html-jpg/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -120,7 +120,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/haruko-jpg/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/haruko-jpg/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -129,7 +129,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/hefty-water/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/hefty-water/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -138,7 +138,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/indexing-for-eds-and-auths-3f/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/indexing-for-eds-and-auths-3f/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -147,7 +147,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/indexing-for-eds-and-auths-3md/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/indexing-for-eds-and-auths-3md/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -156,7 +156,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/internal-links/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/internal-links/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -165,7 +165,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/israel-sailing/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/israel-sailing/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -174,7 +174,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/jlreq-in-english/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/jlreq-in-english/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -183,7 +183,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/jlreq-in-japanese/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/jlreq-in-japanese/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -192,7 +192,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/kusamakura-japanese-vertical-writing/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/kusamakura-japanese-vertical-writing/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -201,7 +201,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/kusamakura-preview/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/kusamakura-preview/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -210,7 +210,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/kusamakura-preview-embedded/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/kusamakura-preview-embedded/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -219,7 +219,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/linear-algebra/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/linear-algebra/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -228,7 +228,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/mahabharata/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/mahabharata/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -237,7 +237,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/moby-dick/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/moby-dick/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -246,7 +246,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/moby-dick-mo/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/moby-dick-mo/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -255,7 +255,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/page-blanche/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/page-blanche/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -264,7 +264,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/page-blanche-bitmaps-in-spine/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/page-blanche-bitmaps-in-spine/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -273,7 +273,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/quiz/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/quiz/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -282,7 +282,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/regime-anti-cancer-arabic/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/regime-anti-cancer-arabic/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -291,7 +291,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/sous-le-vent/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/sous-le-vent/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -300,7 +300,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/sous-le-vent-svg/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/sous-le-vent-svg/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -309,7 +309,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/svg-in-spine/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/svg-in-spine/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -318,7 +318,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/trees/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/trees/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -327,7 +327,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/vertical-writing/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/vertical-writing/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -336,7 +336,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/wasteland/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/wasteland/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -345,7 +345,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/wasteland-otf/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/wasteland-otf/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -354,7 +354,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/wasteland-otf-obf/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/wasteland-otf-obf/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -363,7 +363,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/wasteland-woff/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/wasteland-woff/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -372,7 +372,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/wasteland-woff-obf/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/wasteland-woff-obf/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -381,7 +381,7 @@
       }
     },
     {
-      "id": "https://ebook-test-manifests.netlify.com/collection/world-cultures-and-geography/index.json",
+      "id": "https://ebook-test-manifests.netlify.app/collection/world-cultures-and-geography/index.json",
       "type": "Manifest",
       "label": {
         "@none": [

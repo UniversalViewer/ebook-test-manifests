@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "biiif collection -u https://ebook-test-manifests.netlify.com/collection/"
+    "build": "biiif collection -u https://ebook-test-manifests.netlify.app/collection/"
   },
   "repository": {
     "type": "git",
