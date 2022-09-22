@@ -1,3 +1,3 @@
 # ebook-test-manifests
 
-https://ebook-test-manifests.netlify.com/
+https://ebook-test-manifests.netlify.app/
